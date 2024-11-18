@@ -1,0 +1,13 @@
+SMAP
+ex_005fcomment1_jsp.java
+JSP
+*S JSP
+*F
++ 0 ex_comment1.jsp
+ex_comment1.jsp
+*L
+5,11:44
+16:55,2
+17,2:57,3
+19,3:63
+*E
