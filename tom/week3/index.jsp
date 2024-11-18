@@ -1,0 +1,5 @@
+<%
+
+	out.print("index.jsp");
+
+%>

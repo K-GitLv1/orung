@@ -1,0 +1,7 @@
+<!--EX_EXPRESSION1.jps-->
+<%
+	out.print (Expression : JSP<br/>);
+%>
+<%=10+5%>
+
+<%="TOTAL ="+(10+5)%>
